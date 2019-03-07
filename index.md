@@ -1,7 +1,7 @@
 # GloamingCat's Moon
 
-Hi! I'm GloamingCat, a brazilian independent artist, game programmer, and soon-to-be Computer Science bachelor. 
-My main interest areas are Game Development, Computer Graphics and Artificial Inteligence.
+Hi! I'm GloamingCat, a brazilian independent artist, game programmer, and bachelor in Computer Science. 
+My main interest areas are Game Development, Computer Graphics and Artificial Intelligence.
 
 ## Games
 
@@ -62,10 +62,10 @@ A top-down rogue-like action / puzzle game I made for a game course during the f
 
 During my courses, I created and participated in some other projects that were not directly related to games. I publish them on my personal academic account: https://github.com/luisaras
 
-### Dreamy
+### Piano Generator
 
-A MIDI music generator made in Java. It creates piano pieces based on other provided piano piece, using a genetic algorithm. It was made during the last semester of my majoring courses (second half of 2018).
-- Repository: https://github.com/luisaras/dreamy
+A MIDI music generator made in Java. It creates piano pieces based on other provided piano piece, using a genetic algorithm. It was made during the last semester of my majoring courses (second half of 2018). Some of the pieces generated may be heard in https://luisaras.github.io/piano-repo/.
+- Repository: https://github.com/luisaras/Piano-Generator
 
 ### MeowTracer
 
@@ -105,6 +105,7 @@ My art accounts:
 - Deviant Art: https://www.deviantart.com/gloamingcat/
 - Instagram: https://instagram.com/gloamingcat/
 - Tumblr: https://gloamingcat.tumblr.com/
+- Tapas (comic): https://tapas.io/series/Rigel-Magic-Academy
 
 Ah, I'm also studying musical theory. I posted a few MIDI pieces I made here: https://soundcloud.com/gloamingcat
 
