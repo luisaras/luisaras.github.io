@@ -21,8 +21,8 @@ Here is the list of games that I created or participated in its development.
 </p>
 
 Game engine for TRPG creation, made with LÖVE2D. I have been developing it since mid-2016, and it's sill ongoing.
-- Repository: https://github.com/GloamingCat/Lovely-Tactics-Hex
-- Tutorials: https://nightlywhiskers.wordpress.com/tutorials/
+
+* [Repository](https://github.com/GloamingCat/Lovely-Tactics-Hex) | [Tutorials](https://nightlywhiskers.wordpress.com/tutorials/)
 
 I am also developing an editor for the database JSON files, called LTH Editor:
 
@@ -32,7 +32,7 @@ I am also developing an editor for the database JSON files, called LTH Editor:
 </p>
 
 It is being made with Java SWT library.
-- Repository: https://github.com/GloamingCat/LTH-Editor
+* [Repository](https://github.com/GloamingCat/LTH-Editor)
 
 ### A Musical Adventure
 
@@ -42,8 +42,7 @@ It is being made with Java SWT library.
 </p>
 
 A rhythm / platform mini-game I made in 2015 for a local game jam, using Unity 2D.
-- Repository + instructions: https://github.com/GloamingCat/A-Musical-Adventure
-- Play at: https://gloamingcat.github.io/Play-A-Musical-Adventure/
+* [Repository + instructions](https://github.com/GloamingCat/A-Musical-Adventure) | [Play Here](https://gloamingcat.github.io/Play-A-Musical-Adventure/)
 
 ### Callisto Cats
 
@@ -52,8 +51,7 @@ A rhythm / platform mini-game I made in 2015 for a local game jam, using Unity 2
 </p>
 
 An adventure / exploration game prototype I made for fun in 2016, with Unity 3D.
-- Repository + instructions: https://github.com/GloamingCat/Callisto-Cats
-- Play at: https://gloamingcat.github.io/Play-Callisto-Cats/
+* [Repository + instructions](https://github.com/GloamingCat/Callisto-Cats) | [Play Here](https://gloamingcat.github.io/Play-Callisto-Cats/)
 
 ### The Mysterious Castle of Blue Roses
 
@@ -62,19 +60,18 @@ An adventure / exploration game prototype I made for fun in 2016, with Unity 3D.
 </p>
 
 A top-down rogue-like action / puzzle game I made for a game course during the first half of 2016. I worked in a team of 3, as a game programmer, game designer and pixel artist.
-- Repository: https://github.com/carolmb/tmcbr
-- Gameplay video: https://www.youtube.com/watch?v=OawvogGALF0
-- Android Build: https://drive.google.com/file/d/1W4OxsV1RxQ9lm9gblyj1CL8fl6GTLvHd/view?usp=sharing
-- Windows Build: https://drive.google.com/file/d/17ISbyET6wDE_Xnjl3VsWwkN7WhlCAEau/view?usp=sharing
+
+* [Repository](https://github.com/carolmb/tmcbr) | [Gameplay video](https://www.youtube.com/watch?v=OawvogGALF0) | [Android Build](https://drive.google.com/file/d/1W4OxsV1RxQ9lm9gblyj1CL8fl6GTLvHd/view?usp=sharing) | [Windows Build](https://drive.google.com/file/d/17ISbyET6wDE_Xnjl3VsWwkN7WhlCAEau/view?usp=sharing)
 
 ## Academic Projects
 
-During my courses, I created and participated in some other projects that were not directly related to games. I publish them on my personal academic account: https://github.com/luisaras
+During my courses, I created and participated in some other projects that were not directly related to games.
 
 ### Piano Generator
 
-A MIDI music generator made in Java. It creates piano pieces based on other provided piano piece, using a genetic algorithm. It was made during the last semester of my majoring courses (second half of 2018). Some of the pieces generated may be heard in https://luisaras.github.io/piano-repo/.
-- Repository: https://github.com/luisaras/Piano-Generator
+A MIDI music generator made in Java. It creates piano pieces based on other provided piano piece, using a genetic algorithm. It was made during the last semester of my majoring courses (second half of 2018).
+
+* [Repository](https://github.com/luisaras/Piano-Generator) | [Generated samples](https://luisaras.github.io/piano-repo/)
 
 ### MeowTracer
 
@@ -83,17 +80,20 @@ A MIDI music generator made in Java. It creates piano pieces based on other prov
 </p>
 
 A custom ray tracer that I created during the first half of 2018 using C++.
-- Repository: https://github.com/luisaras/meowtracer2
+
+* [Repository](https://github.com/luisaras/meowtracer2)
 
 ### OWLS
 
 A custom programming language, simliar to C, interpreted using Haskell. It was developted during the first half of 2017. I worked in a team of 4, as the leading programmer.
-- Repository: https://github.com/gustavowl/OWLS
+
+* [Repository](https://github.com/gustavowl/OWLS)
 
 ### Planejador de Matrículas
 
 A small Android app I worked on in a team of 3, as the leading programmer, during the second half of 2016. It is an app to manage the courses that the student wants to take during the next semesters. It is in portuguese, and made specially for our university.
-- Repository: https://github.com/carolmb/planejadormatriculas
+
+* [Repository](https://github.com/carolmb/planejadormatriculas)
 
 ## Art
 
@@ -110,14 +110,9 @@ Besides programming, I've also being drawing as a hobby since 2012. I focus main
 <img src="https://orig00.deviantart.net/986e/f/2017/268/7/b/pearl_by_gloamingcat-dbok89d.gif" height="192"/>
 </p>
 
-My art accounts:
-- Deviant Art: https://www.deviantart.com/gloamingcat/
-- Instagram: https://instagram.com/gloamingcat/
-- Tumblr: https://gloamingcat.tumblr.com/
-- Tapas (comic): https://tapas.io/series/Rigel-Magic-Academy
-- Webtoon (comic): https://www.webtoons.com/en/challenge/rigel-magic-academy/list?title_no=257520
+* [Deviant Art](https://www.deviantart.com/gloamingcat/) | [Instagram](https://instagram.com/gloamingcat/) | [Tumblr](https://gloamingcat.tumblr.com/) | [Tapas (comic)](https://tapas.io/series/Rigel-Magic-Academy) | [Webtoon (comic)](https://www.webtoons.com/en/challenge/rigel-magic-academy/list?title_no=257520)
 
-Oh, I'm also studying musical theory. I posted a few MIDI pieces I made here: https://soundcloud.com/gloamingcat
+Oh, I'm also studying musical theory. I posted a few MIDI pieces I made here on my [SoundCloud](https://soundcloud.com/gloamingcat).
 
 ## Contact
 
