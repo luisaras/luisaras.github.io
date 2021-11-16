@@ -5,11 +5,11 @@ Currently pursuing my master’s degree in Artificial Intelligence.
 This is my portfolio. The projects I made for my academic courses are published on my main account [luisaras](https://github.com/luisaras), 
 and the ones I make for myself are published on my alternate account [GloamingCat](https://github.com/gloamingcat).
 
-## Games
+# Games
 
 Here is the list of games that I created or participated in its development.
 
-### Lovely Tactics Hex
+## Lovely Tactics Hex
 
 <p align="center">
   <img src="https://66.media.tumblr.com/a30546d800b9fc4180f9ec6743d2ee18/tumblr_p773qyUzqO1x9yfk6o1_1280.png" height="160"/>
@@ -30,7 +30,7 @@ I am also developing an editor for the database JSON files, called LTH Editor:
 It is being made with Java SWT library.
 - Repository: https://github.com/GloamingCat/LTH-Editor
 
-### A Musical Adventure
+## A Musical Adventure
 
 <p align="center">
   <img src="https://github.com/GloamingCat/A-Musical-Adventure/blob/master/screenshots/instructions.png?raw=true" width="240"/>
@@ -41,7 +41,7 @@ A rhythm / platform mini-game I made in 2015 for a local game jam, using Unity 2
 - Repository + instructions: https://github.com/GloamingCat/A-Musical-Adventure
 - Play at: https://gloamingcat.github.io/Play-A-Musical-Adventure/
 
-### Callisto Cats
+## Callisto Cats
 
 <p align="center">
   <img src="https://github.com/GloamingCat/Callisto-Cats/blob/master/screenshots/stage.png?raw=true" width="600"/>
@@ -51,7 +51,7 @@ An adventure / exploration game prototype I made for fun in 2016, with Unity 3D.
 - Repository + instructions: https://github.com/GloamingCat/Callisto-Cats
 - Play at: https://gloamingcat.github.io/Play-Callisto-Cats/
 
-### The Mysterious Castle of Blue Roses
+## The Mysterious Castle of Blue Roses
 
 <p align="center">
   <img src="https://github.com/carolmb/tmcbr/blob/master/Assets/Resources/Images/rosa-01.png?raw=true" height="300"/>
@@ -63,16 +63,16 @@ A top-down rogue-like action / puzzle game I made for a game course during the f
 - Android Build: https://drive.google.com/file/d/1W4OxsV1RxQ9lm9gblyj1CL8fl6GTLvHd/view?usp=sharing
 - Windows Build: https://drive.google.com/file/d/17ISbyET6wDE_Xnjl3VsWwkN7WhlCAEau/view?usp=sharing
 
-## Academic Projects
+# Academic Projects
 
 During my courses, I created and participated in some other projects that were not directly related to games. I publish them on my personal academic account: https://github.com/luisaras
 
-### Piano Generator
+## Piano Generator
 
 A MIDI music generator made in Java. It creates piano pieces based on other provided piano piece, using a genetic algorithm. It was made during the last semester of my majoring courses (second half of 2018). Some of the pieces generated may be heard in https://luisaras.github.io/piano-repo/.
 - Repository: https://github.com/luisaras/Piano-Generator
 
-### MeowTracer
+## MeowTracer
 
 <p align="center">
 <img src="https://github.com/luisaras/meowtracer2/blob/master/png/material.png?raw=true" height="240"/>
@@ -81,7 +81,7 @@ A MIDI music generator made in Java. It creates piano pieces based on other prov
 A custom ray tracer that I created during the first half of 2018 using C++.
 - Repository: https://github.com/luisaras/meowtracer2
 
-### OWLS
+## OWLS
 
 A custom programming language, simliar to C, interpreted using Haskell. It was developted during the first half of 2017. I worked in a team of 4, as the leading programmer.
 - Repository: https://github.com/gustavowl/OWLS
@@ -91,7 +91,7 @@ A custom programming language, simliar to C, interpreted using Haskell. It was d
 A small Android app I worked on in a team of 3, as the leading programmer, during the second half of 2016. It is an app to manage the courses that the student wants to take during the next semesters. It is in portuguese, and made specially for our university.
 - Repository: https://github.com/carolmb/planejadormatriculas
 
-## Art
+# Art
 
 Besides programming, I've also being drawing as a hobby since 2012. I focus mainly on digital painting and pixel art for my games, but I also draw a comic and individual illustrations.
 
@@ -115,6 +115,6 @@ My art accounts:
 
 Oh, I'm also studying musical theory. I posted a few MIDI pieces I made here: https://soundcloud.com/gloamingcat
 
-## Contact
+# Contact
 
 E-mail: luisa.ras97 (at) gmail (dot) com
