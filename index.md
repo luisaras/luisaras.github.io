@@ -1,7 +1,10 @@
-# GloamingCat's Moon
+# Me and My Projects
 
-Hi! I'm GloamingCat, a brazilian independent artist, game programmer, and bachelor in Computer Science. 
+Hi! I'm Luísa, a brazilian independent artist, game programmer, and bachelor in Computer Science. 
 My main interest areas are Game Development, Computer Graphics and Artificial Intelligence.
+
+This is my portfolio. The projects I made for my academic courses are published on my main account [luisaras](https://github.com/luisaras), 
+and the ones I make for myself are published on my alternate account [GloamingCat](https://github.com/gloamingcat).
 
 ## Games
 
@@ -16,6 +19,7 @@ Here is the list of games that I created or participated in its development.
 
 Game engine for TRPG creation, made with LÖVE2D. I have been developing it since mid-2016, and it's sill ongoing.
 - Repository: https://github.com/GloamingCat/Lovely-Tactics-Hex
+- Tutorials: https://nightlywhiskers.wordpress.com/tutorials/
 
 I am also developing an editor for the database JSON files, called LTH Editor:
 
@@ -57,6 +61,8 @@ An adventure / exploration game prototype I made for fun in 2016, with Unity 3D.
 A top-down rogue-like action / puzzle game I made for a game course during the first half of 2016. I worked in a team of 3, as a game programmer, game designer and pixel artist.
 - Repository: https://github.com/carolmb/tmcbr
 - Gameplay video: https://www.youtube.com/watch?v=OawvogGALF0
+- Android Build: https://drive.google.com/file/d/1W4OxsV1RxQ9lm9gblyj1CL8fl6GTLvHd/view?usp=sharing
+- Windows Build: https://drive.google.com/file/d/17ISbyET6wDE_Xnjl3VsWwkN7WhlCAEau/view?usp=sharing
 
 ## Academic Projects
 
@@ -106,9 +112,10 @@ My art accounts:
 - Instagram: https://instagram.com/gloamingcat/
 - Tumblr: https://gloamingcat.tumblr.com/
 - Tapas (comic): https://tapas.io/series/Rigel-Magic-Academy
+- Webtoon (comic): https://www.webtoons.com/en/challenge/rigel-magic-academy/list?title_no=257520
 
 Ah, I'm also studying musical theory. I posted a few MIDI pieces I made here: https://soundcloud.com/gloamingcat
 
 ## Contact
 
-E-mail: nightlywhiskers (at) gmail (dot) com
+E-mail: luisa.ras97 (at) gmail (dot) com
