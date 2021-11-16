@@ -1,4 +1,4 @@
-# Me and My Projects
+# About Me
 
 Hi! I'm Luísa, a brazilian independent artist, game programmer, and bachelor in Computer Science. 
 My main interest areas are Game Development, Computer Graphics and Artificial Intelligence.
@@ -6,7 +6,7 @@ My main interest areas are Game Development, Computer Graphics and Artificial In
 This is my portfolio. The projects I made for my academic courses are published on my main account [luisaras](https://github.com/luisaras), 
 and the ones I make for myself are published on my alternate account [GloamingCat](https://github.com/gloamingcat).
 
-## Games
+## My Games
 
 Here is the list of games that I created or participated in its development.
 
@@ -64,7 +64,7 @@ A top-down rogue-like action / puzzle game I made for a game course during the f
 - Android Build: https://drive.google.com/file/d/1W4OxsV1RxQ9lm9gblyj1CL8fl6GTLvHd/view?usp=sharing
 - Windows Build: https://drive.google.com/file/d/17ISbyET6wDE_Xnjl3VsWwkN7WhlCAEau/view?usp=sharing
 
-## Academic Projects
+## My Academic Projects
 
 During my courses, I created and participated in some other projects that were not directly related to games. I publish them on my personal academic account: https://github.com/luisaras
 
