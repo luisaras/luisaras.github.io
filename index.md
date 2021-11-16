@@ -12,8 +12,8 @@ Here is the list of games that I created or participated in its development.
 ### Lovely Tactics Hex
 
 <p align="center">
-  <img src="https://66.media.tumblr.com/a30546d800b9fc4180f9ec6743d2ee18/tumblr_p773qyUzqO1x9yfk6o1_1280.png" height="180"/>
-  <img src="https://66.media.tumblr.com/4b876449b0abb676b13b56a9de107198/tumblr_p89m07DAAd1x9yfk6o1_1280.png" height="180"/>
+  <img src="https://66.media.tumblr.com/a30546d800b9fc4180f9ec6743d2ee18/tumblr_p773qyUzqO1x9yfk6o1_1280.png" height="160"/>
+  <img src="https://66.media.tumblr.com/4b876449b0abb676b13b56a9de107198/tumblr_p89m07DAAd1x9yfk6o1_1280.png" height="160"/>
 </p>
 
 Game engine for TRPG creation, made with LÖVE2D. I have been developing it since mid-2016, and it's sill ongoing.
@@ -113,7 +113,7 @@ My art accounts:
 - Tapas (comic): https://tapas.io/series/Rigel-Magic-Academy
 - Webtoon (comic): https://www.webtoons.com/en/challenge/rigel-magic-academy/list?title_no=257520
 
-Ah, I'm also studying musical theory. I posted a few MIDI pieces I made here: https://soundcloud.com/gloamingcat
+Oh, I'm also studying musical theory. I posted a few MIDI pieces I made here: https://soundcloud.com/gloamingcat
 
 ## Contact
 
