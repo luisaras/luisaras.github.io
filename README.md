@@ -1,5 +1,7 @@
 # Luísa's Porfolio
 
+https://luisaras.github.io/
+
 Hi! I'm Luísa Rocha, a brazilian independent artist, game programmer, and bachelor in Computer Science. 
 My main interest areas are Game Development, Computer Graphics and Artificial Intelligence.
 Currently pursuing my master’s degree in Artificial Intelligence.
@@ -115,7 +117,7 @@ My art accounts:
 - Tapas (comic): https://tapas.io/series/Rigel-Magic-Academy
 - Webtoon (comic): https://www.webtoons.com/en/challenge/rigel-magic-academy/list?title_no=257520
 
-Ah, I'm also studying musical theory. I posted a few MIDI pieces I made here: https://soundcloud.com/gloamingcat
+Oh, I'm also studying musical theory. I posted a few MIDI pieces I made here: https://soundcloud.com/gloamingcat
 
 ## Contact
 
