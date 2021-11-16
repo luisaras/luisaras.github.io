@@ -1,22 +1,19 @@
-# Luísa's Porfolio
-
-## About Me
-
-Hi! I'm Luísa, a brazilian independent artist, game programmer, and bachelor in Computer Science. 
+Hi! I'm Luísa Rocha, a brazilian independent artist, game programmer, and bachelor in Computer Science. 
 My main interest areas are Game Development, Computer Graphics and Artificial Intelligence.
+Currently pursuing my master’s degree in Artificial Intelligence.
 
 This is my portfolio. The projects I made for my academic courses are published on my main account [luisaras](https://github.com/luisaras), 
 and the ones I make for myself are published on my alternate account [GloamingCat](https://github.com/gloamingcat).
 
-## My Games
+## Games
 
 Here is the list of games that I created or participated in its development.
 
 ### Lovely Tactics Hex
 
 <p align="center">
-  <img src="https://66.media.tumblr.com/a30546d800b9fc4180f9ec6743d2ee18/tumblr_p773qyUzqO1x9yfk6o1_1280.png" height="160"/>
-  <img src="https://66.media.tumblr.com/4b876449b0abb676b13b56a9de107198/tumblr_p89m07DAAd1x9yfk6o1_1280.png" height="160"/>
+  <img src="https://66.media.tumblr.com/a30546d800b9fc4180f9ec6743d2ee18/tumblr_p773qyUzqO1x9yfk6o1_1280.png" height="180"/>
+  <img src="https://66.media.tumblr.com/4b876449b0abb676b13b56a9de107198/tumblr_p89m07DAAd1x9yfk6o1_1280.png" height="180"/>
 </p>
 
 Game engine for TRPG creation, made with LÖVE2D. I have been developing it since mid-2016, and it's sill ongoing.
@@ -66,7 +63,7 @@ A top-down rogue-like action / puzzle game I made for a game course during the f
 - Android Build: https://drive.google.com/file/d/1W4OxsV1RxQ9lm9gblyj1CL8fl6GTLvHd/view?usp=sharing
 - Windows Build: https://drive.google.com/file/d/17ISbyET6wDE_Xnjl3VsWwkN7WhlCAEau/view?usp=sharing
 
-## My Academic Projects
+## Academic Projects
 
 During my courses, I created and participated in some other projects that were not directly related to games. I publish them on my personal academic account: https://github.com/luisaras
 
