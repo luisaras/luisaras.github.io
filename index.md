@@ -72,6 +72,18 @@ A top-down rogue-like action / puzzle game I made for a game course during the f
 
 <br />
 
+## Pixel Char Maker
+
+<p align="center">
+  <img src="https://i.imgur.com/1u0TTMA.png" height="300"/>
+</p>
+
+Not a game, but a supplementary web application to create spritesheets for my LTH engine.
+
+| [Repository](https://github.com/gloamingcat/pixel-char-maker) | [Website](https://gloamingcat.github.io/pixel-char-maker/) |
+
+<br />
+
 # Academic Projects
 
 During my courses, I created and participated in some other projects that were not directly related to games.
