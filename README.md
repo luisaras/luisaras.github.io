@@ -63,6 +63,17 @@ A top-down rogue-like action / puzzle game I made for a game course during the f
 
 * [Repository](https://github.com/carolmb/tmcbr) | [Gameplay video](https://www.youtube.com/watch?v=OawvogGALF0) | [Android Build](https://drive.google.com/file/d/1W4OxsV1RxQ9lm9gblyj1CL8fl6GTLvHd/view?usp=sharing) | [Windows Build](https://drive.google.com/file/d/17ISbyET6wDE_Xnjl3VsWwkN7WhlCAEau/view?usp=sharing)
 
+### Pixel Char Maker
+
+<p align="center">
+  <img src="https://i.imgur.com/1u0TTMA.png" height="300"/>
+</p>
+
+Not a game, but a supplementary web application to create spritesheets for my LTH engine.
+
+* [Repository](https://github.com/gloamingcat/pixel-char-maker) | [Website](https://gloamingcat.github.io/pixel-char-maker/)
+
+
 ## Academic Projects
 
 During my courses, I created and participated in some other projects that were not directly related to games.
