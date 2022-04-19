@@ -54,9 +54,9 @@ A rhythm / platform mini-game I made in 2015 for a local game jam, using Unity 2
   <img src="https://github.com/GloamingCat/Callisto-Cats/blob/master/screenshots/stage.png?raw=true" width="600"/>
 </p>
 
-An adventure / exploration game prototype I made for fun in 2016, with Unity 3D.
+An adventure / exploration game prototype I made for fun in 2016, with Unity 3D. A LAN party version also exists, but only for desktop version for now due to limitations in the Unity engine. 
 
-| [Repository + instructions](https://github.com/GloamingCat/Callisto-Cats) | [Play Here](https://gloamingcat.github.io/Play-Callisto-Cats/) |
+| [Repository + instructions](https://github.com/GloamingCat/Callisto-Cats) | [Play Here](https://gloamingcat.github.io/Play-Callisto-Cats/) | [Standalone](https://drive.google.com/file/d/1Z4V9f4oVmtbfuk7a9ffwpQrtVCTy1vOk/view?usp=sharing) |
 
 <br />
 
