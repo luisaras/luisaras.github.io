@@ -9,32 +9,6 @@ and the ones I make for myself are published on my alternate account [GloamingCa
 
 Here is the list of games that I created or participated in its development.
 
-## Lovely Tactics Hex
-
-<p align="center">
-  <img src="https://66.media.tumblr.com/a30546d800b9fc4180f9ec6743d2ee18/tumblr_p773qyUzqO1x9yfk6o1_1280.png" height="160"/>
-  <img src="https://66.media.tumblr.com/4b876449b0abb676b13b56a9de107198/tumblr_p89m07DAAd1x9yfk6o1_1280.png" height="160"/>
-</p>
-
-Game engine for TRPG creation, made with LÖVE2D. I have been developing it since mid-2016, and it's sill ongoing.
-
-| [Repository](https://github.com/GloamingCat/Lovely-Tactics-Hex) | [Tutorials](https://nightlywhiskers.wordpress.com/tutorials/) |
-
-<br />
-
-I am also developing an editor for the database JSON files, called LTH Editor:
-
-<p align="center">
-  <img src="https://66.media.tumblr.com/80849c5f52cc00e9f27c29a25ccb8849/tumblr_pf5hy6Jwxw1x9yfk6o1_1280.jpg" height="200"/>
-  <img src="https://66.media.tumblr.com/7ae1a235c4b3fe02e50e139bb4eab1c3/tumblr_pf5hy6Jwxw1x9yfk6o2_1280.jpg" height="200"/>
-</p>
-
-It is being made with Java SWT library.
-
-| [Repository](https://github.com/GloamingCat/LTH-Editor) |
-
-<br />
-
 ## A Musical Adventure
 
 <p align="center">
@@ -69,6 +43,32 @@ An adventure / exploration game prototype I made for fun in 2016, with Unity 3D.
 A top-down rogue-like action / puzzle game I made for a game course during the first half of 2016. I worked in a team of 3, as a game programmer, game designer and pixel artist.
 
 | [Repository](https://github.com/carolmb/tmcbr) | [Gameplay video](https://www.youtube.com/watch?v=OawvogGALF0) | [Android Build](https://drive.google.com/file/d/1W4OxsV1RxQ9lm9gblyj1CL8fl6GTLvHd/view?usp=sharing) | [Windows Build](https://drive.google.com/file/d/17ISbyET6wDE_Xnjl3VsWwkN7WhlCAEau/view?usp=sharing) |
+
+<br />
+
+## Lovely Tactics Hex
+
+<p align="center">
+  <img src="https://66.media.tumblr.com/a30546d800b9fc4180f9ec6743d2ee18/tumblr_p773qyUzqO1x9yfk6o1_1280.png" height="160"/>
+  <img src="https://66.media.tumblr.com/4b876449b0abb676b13b56a9de107198/tumblr_p89m07DAAd1x9yfk6o1_1280.png" height="160"/>
+</p>
+
+Game engine for TRPG creation, made with LÖVE2D. I have been developing it since mid-2016, and it's sill ongoing.
+
+| [Repository](https://github.com/GloamingCat/Lovely-Tactics-Hex) | [Tutorials](https://nightlywhiskers.wordpress.com/tutorials/) |
+
+<br />
+
+I am also developing an editor for the database JSON files, called LTH Editor:
+
+<p align="center">
+  <img src="https://66.media.tumblr.com/80849c5f52cc00e9f27c29a25ccb8849/tumblr_pf5hy6Jwxw1x9yfk6o1_1280.jpg" height="200"/>
+  <img src="https://66.media.tumblr.com/7ae1a235c4b3fe02e50e139bb4eab1c3/tumblr_pf5hy6Jwxw1x9yfk6o2_1280.jpg" height="200"/>
+</p>
+
+It is being made with Java SWT library.
+
+| [Repository](https://github.com/GloamingCat/LTH-Editor) |
 
 <br />
 
@@ -118,7 +118,7 @@ A custom programming language, simliar to C, interpreted using Haskell. It was d
 
 ## Planejador de Matrículas
 
-A small Android app I worked on in a team of 3, as the leading programmer, during the second half of 2016. It is an app to manage the courses that the student wants to take during the next semesters. It is in portuguese, and made specially for our university.
+A small Android app I worked on in a team of 3, as the leading programmer, during the second half of 2016. It is an app to manage the courses that the student wants to take during the following semesters. It is in portuguese, and made specifically for our university.
 
 | [Repository](https://github.com/carolmb/planejadormatriculas) |
 
