@@ -28,7 +28,7 @@ A rhythm / platform mini-game I made in 2015 for a local game jam, using Unity 2
   <img src="https://github.com/GloamingCat/Callisto-Cats/blob/master/screenshots/stage.png?raw=true" width="600"/>
 </p>
 
-An adventure / exploration game prototype I made for fun in 2016, with Unity 3D. A LAN party version also exists, but only for desktop version for now due to limitations in the Unity engine. 
+An adventure / exploration game prototype I made for fun in 2016, with Unity 3D. A LAN party version made in 2022 (with Netcode for GameObjects) also exists, but only for desktop version for now due to limitations in the Unity engine. 
 
 | [Repository + instructions](https://github.com/GloamingCat/Callisto-Cats) | [Play Here](https://gloamingcat.github.io/Play-Callisto-Cats/) | [Standalone](https://drive.google.com/file/d/1Z4V9f4oVmtbfuk7a9ffwpQrtVCTy1vOk/view?usp=sharing) |
 
@@ -40,7 +40,7 @@ An adventure / exploration game prototype I made for fun in 2016, with Unity 3D.
   <img src="https://github.com/carolmb/tmcbr/blob/master/Assets/Resources/Images/rosa-01.png?raw=true" height="300"/>
 </p>
 
-A top-down rogue-like action / puzzle game I made for a game course during the first half of 2016. I worked in a team of 3, as a game programmer, game designer and pixel artist.
+A top-down rogue-like action / puzzle game I made for a game course during the first half of 2016. I worked in a team of 3, as a game programmer, game designer and pixel artist. 
 
 | [Repository](https://github.com/carolmb/tmcbr) | [Gameplay video](https://www.youtube.com/watch?v=OawvogGALF0) | [Android Build](https://drive.google.com/file/d/1W4OxsV1RxQ9lm9gblyj1CL8fl6GTLvHd/view?usp=sharing) | [Windows Build](https://drive.google.com/file/d/17ISbyET6wDE_Xnjl3VsWwkN7WhlCAEau/view?usp=sharing) |
 
@@ -78,7 +78,7 @@ It is being made with Java SWT library.
   <img src="https://i.imgur.com/1u0TTMA.png" height="300"/>
 </p>
 
-Not a game, but a supplementary web application to create spritesheets for my LTH engine.
+Not a game, but a supplementary web application I made in 2022 to create spritesheets for my LTH engine.
 
 | [Repository](https://github.com/gloamingcat/pixel-char-maker) | [Website](https://gloamingcat.github.io/pixel-char-maker/) |
 
@@ -88,9 +88,15 @@ Not a game, but a supplementary web application to create spritesheets for my LT
 
 During my courses, I created and participated in some other projects that were not directly related to games.
 
+## Goal Recognizer
+
+My MSc thesis, an AI component made in C++ and Python. It is an extension of the [Fast Downward](https://www.fast-downward.org/) framework for automated planning. It detects the intended goal of an agent given its observed actions.
+
+| [Repository](https://github.com/pucrs-automated-planning/lp-recognizer) | [Published Article](https://ojs.aaai.org/index.php/AAAI/article/view/17418) |
+
 ## Piano Generator
 
-A MIDI music generator made in Java. It creates piano pieces based on other provided piano piece, using a genetic algorithm. It was made during the last semester of my majoring courses (second half of 2018).
+My BSc thesis, a MIDI music generator made in Java. It creates piano pieces based on other provided piano piece, using a genetic algorithm. It was made during the last semester of my majoring courses (second half of 2018).
 
 | [Repository](https://github.com/luisaras/Piano-Generator) | [Generated samples](https://luisaras.github.io/piano-repo/) |
 
