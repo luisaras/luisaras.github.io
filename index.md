@@ -77,7 +77,7 @@ A top-down rogue-like action / puzzle game I made for a game course during the f
 
 <br />
 
-# C/C++ and Python
+# C/C++
 
 ## Goal Recognizer
 
@@ -104,6 +104,24 @@ A custom ray tracer that I created during the first half of 2018 using C++.
 A custom programming language, similar to C with Pascal features, parsed and compiled using C, [LEX](http://dinosaur.compilertools.net/) and [Bison](https://www.gnu.org/software/bison/). It was developed in a first half of 2018.
 
 | [Repository](https://github.com/hbdf/CPa) |
+
+<br />
+
+# Python
+
+## Pacman Learner
+
+An [exercise](http://ai.berkeley.edu/reinforcement.html) for a Reinforcement Learning course, made in Python.
+
+| [Repository](https://github.com/luisaras/reinforcement) |
+
+<br />
+
+## Goal Recognizer
+
+My MSc thesis, an AI component made in C++ and Python. It is an extension of the [Fast Downward](https://www.fast-downward.org/) framework for automated planning. It detects the intended goal of an agent given its observed actions. It was developed from 2020 to 2022.
+
+| [Repository](https://github.com/pucrs-automated-planning/lp-recognizer) | [Published Article](https://ojs.aaai.org/index.php/AAAI/article/view/17418) |
 
 <br />
 
