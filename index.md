@@ -117,6 +117,18 @@ An [exercise](http://ai.berkeley.edu/reinforcement.html) for a Reinforcement Lea
 
 <br />
 
+## Open Melody Raiser
+
+A MIDI composer/generator inspired by [1999 Melody Raiser](https://archive.org/details/melody-raiser-1999). It is being developed using Python's [Tkinter](https://docs.python.org/3/library/tkinter.html) for the UI, and [Pretty MIDI](https://github.com/craffel/pretty-midi) for MIDI manipulation.
+
+<p align="center">
+  <img src="https://github.com/GloamingCat/Open-Melody-Raiser/blob/main/screenshots/1.jpg?raw=true"/>
+</p>
+
+| [Repository](https://github.com/GloamingCat/Open-Melody-Raiser) |
+
+<br />
+
 ## Goal Recognizer
 
 My MSc thesis, an AI component made in C++ and Python. It is an extension of the [Fast Downward](https://www.fast-downward.org/) framework for automated planning. It detects the intended goal of an agent given its observed actions. It was developed from 2020 to 2022.
