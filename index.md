@@ -2,12 +2,43 @@ Hi! I'm Luísa Rocha, a brazilian independent artist, game programmer, and bache
 My main interest areas are Game Development, Computer Graphics and Artificial Intelligence.
 Currently pursuing my master’s degree in Artificial Intelligence.
 
-This is my portfolio. The projects I made for my academic courses are published on my main account [luisaras](https://github.com/luisaras), 
+This is my portfolio, sectioned by language. The projects I made for my academic courses are published on my main account [luisaras](https://github.com/luisaras), 
 and the ones I make for myself are published on my alternate account [GloamingCat](https://github.com/gloamingcat).
 
-# Games
+# Java
 
-Here is the list of games that I created or participated in its development.
+## LTH Editor
+
+An RPG database editor for the JSON files used in my Lovely Tactics Hex (in Lua) game engine:
+
+<p align="center">
+  <img src="https://66.media.tumblr.com/80849c5f52cc00e9f27c29a25ccb8849/tumblr_pf5hy6Jwxw1x9yfk6o1_1280.jpg" height="200"/>
+  <img src="https://66.media.tumblr.com/7ae1a235c4b3fe02e50e139bb4eab1c3/tumblr_pf5hy6Jwxw1x9yfk6o2_1280.jpg" height="200"/>
+</p>
+
+It is being made with Java SWT library.
+
+| [Main Repository](https://github.com/GloamingCat/LTH-Editor) | [Auxiliary Library](https://github.com/GloamingCat/LWT)
+
+<br />
+
+## Piano Generator
+
+My BSc thesis, a MIDI music generator made in Java. It creates piano pieces based on other provided piano piece, using a genetic algorithm. It was made during the last semester of my majoring courses (second half of 2018).
+
+| [Repository](https://github.com/luisaras/Piano-Generator) | [Generated samples](https://luisaras.github.io/piano-repo/) |
+
+<br />
+
+## Course Planner
+
+A small Android app I worked on in a team of 3, as the leading programmer, during the second half of 2016. It is an app to manage the courses that the student wants to take during the following semesters. It is in portuguese, and made specifically for our university. It used a bit of SQL.
+
+| [Repository](https://github.com/carolmb/planejadormatriculas) |
+
+<br />
+
+# Unity/C#
 
 ## A Musical Adventure
 
@@ -46,61 +77,13 @@ A top-down rogue-like action / puzzle game I made for a game course during the f
 
 <br />
 
-## Lovely Tactics Hex
-
-<p align="center">
-  <img src="https://66.media.tumblr.com/a30546d800b9fc4180f9ec6743d2ee18/tumblr_p773qyUzqO1x9yfk6o1_1280.png" height="160"/>
-  <img src="https://66.media.tumblr.com/4b876449b0abb676b13b56a9de107198/tumblr_p89m07DAAd1x9yfk6o1_1280.png" height="160"/>
-</p>
-
-Game engine for TRPG creation, made with LÖVE2D. I have been developing it since mid-2016, and it's sill ongoing.
-
-| [Repository](https://github.com/GloamingCat/Lovely-Tactics-Hex) | [Tutorials](https://nightlywhiskers.wordpress.com/tutorials/) |
-
-<br />
-
-I am also developing an editor for the database JSON files, called LTH Editor:
-
-<p align="center">
-  <img src="https://66.media.tumblr.com/80849c5f52cc00e9f27c29a25ccb8849/tumblr_pf5hy6Jwxw1x9yfk6o1_1280.jpg" height="200"/>
-  <img src="https://66.media.tumblr.com/7ae1a235c4b3fe02e50e139bb4eab1c3/tumblr_pf5hy6Jwxw1x9yfk6o2_1280.jpg" height="200"/>
-</p>
-
-It is being made with Java SWT library.
-
-| [Repository](https://github.com/GloamingCat/LTH-Editor) |
-
-<br />
-
-## Pixel Char Maker
-
-<p align="center">
-  <img src="https://i.imgur.com/1u0TTMA.png" height="300"/>
-</p>
-
-Not a game, but a supplementary web application I made in 2022 to create spritesheets for my LTH engine.
-
-| [Repository](https://github.com/gloamingcat/pixel-char-maker) | [Website](https://gloamingcat.github.io/pixel-char-maker/) |
-
-<br />
-
-# Academic Projects
-
-During my courses, I created and participated in some other projects that were not directly related to games.
+# C/C++ and Python
 
 ## Goal Recognizer
 
-My MSc thesis, an AI component made in C++ and Python. It is an extension of the [Fast Downward](https://www.fast-downward.org/) framework for automated planning. It detects the intended goal of an agent given its observed actions.
+My MSc thesis, an AI component made in C++ and Python. It is an extension of the [Fast Downward](https://www.fast-downward.org/) framework for automated planning. It detects the intended goal of an agent given its observed actions. It was developed from 2020 to 2022.
 
 | [Repository](https://github.com/pucrs-automated-planning/lp-recognizer) | [Published Article](https://ojs.aaai.org/index.php/AAAI/article/view/17418) |
-
-## Piano Generator
-
-My BSc thesis, a MIDI music generator made in Java. It creates piano pieces based on other provided piano piece, using a genetic algorithm. It was made during the last semester of my majoring courses (second half of 2018).
-
-| [Repository](https://github.com/luisaras/Piano-Generator) | [Generated samples](https://luisaras.github.io/piano-repo/) |
-
-<br />
 
 ## MeowTracer
 
@@ -114,19 +97,46 @@ A custom ray tracer that I created during the first half of 2018 using C++.
 
 <br />
 
-## OWLS
+## CPa Lang
 
-A custom programming language, simliar to C, interpreted using Haskell. It was developted during the first half of 2017. I worked in a team of 4, as the leading programmer.
+A custom programming language, similar to C with Pascal features, parsed and compiled using C, [LEX](http://dinosaur.compilertools.net/) and [Bison](https://www.gnu.org/software/bison/). It was developed in a first half of 2018.
 
-| [Repository](https://github.com/gustavowl/OWLS) |
+| [Repository](https://github.com/hbdf/CPa) |
+
+# JavaScript and HTML
+
+## Pixel Char Maker
+
+<p align="center">
+  <img src="https://i.imgur.com/1u0TTMA.png" height="300"/>
+</p>
+
+A web application I made in 2022 to create spritesheets for RPGs.
+
+| [Repository](https://github.com/gloamingcat/pixel-char-maker) | [Website](https://gloamingcat.github.io/pixel-char-maker/) |
 
 <br />
 
-## Planejador de Matrículas
+# Lua and Haskell
 
-A small Android app I worked on in a team of 3, as the leading programmer, during the second half of 2016. It is an app to manage the courses that the student wants to take during the following semesters. It is in portuguese, and made specifically for our university.
+## Lovely Tactics Hex
 
-| [Repository](https://github.com/carolmb/planejadormatriculas) |
+<p align="center">
+  <img src="https://66.media.tumblr.com/a30546d800b9fc4180f9ec6743d2ee18/tumblr_p773qyUzqO1x9yfk6o1_1280.png" height="160"/>
+  <img src="https://66.media.tumblr.com/4b876449b0abb676b13b56a9de107198/tumblr_p89m07DAAd1x9yfk6o1_1280.png" height="160"/>
+</p>
+
+Game engine for TRPG creation, made with LÖVE2D. I have been developing it since mid-2016, and it's sill ongoing.
+
+| [Repository](https://github.com/GloamingCat/Lovely-Tactics-Hex) | [Tutorials](https://nightlywhiskers.wordpress.com/tutorials/) |
+
+<br />
+
+## OWLS Lang
+
+A custom programming language, simliar to C, parsed and interpreted using Haskell. It was developted during the first half of 2017. I worked in a team of 4, as the leading programmer.
+
+| [Repository](https://github.com/gustavowl/OWLS) |
 
 <br />
 
