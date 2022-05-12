@@ -18,7 +18,7 @@ An RPG database editor for the JSON files used in my Lovely Tactics Hex (in Lua)
 
 It is being made with Java SWT library.
 
-| [Main Repository](https://github.com/GloamingCat/LTH-Editor) | [Auxiliary Library](https://github.com/GloamingCat/LWT)
+| [Main Repository](https://github.com/GloamingCat/LTH-Editor) | [Auxiliary Library](https://github.com/GloamingCat/LWT) |
 
 <br />
 
@@ -85,6 +85,8 @@ My MSc thesis, an AI component made in C++ and Python. It is an extension of the
 
 | [Repository](https://github.com/pucrs-automated-planning/lp-recognizer) | [Published Article](https://ojs.aaai.org/index.php/AAAI/article/view/17418) |
 
+<br />
+
 ## MeowTracer
 
 <p align="center">
@@ -103,6 +105,8 @@ A custom programming language, similar to C with Pascal features, parsed and com
 
 | [Repository](https://github.com/hbdf/CPa) |
 
+<br />
+
 # JavaScript and HTML
 
 ## Pixel Char Maker
@@ -117,7 +121,7 @@ A web application I made in 2022 to create spritesheets for RPGs.
 
 <br />
 
-# Lua and Haskell
+# Lua
 
 ## Lovely Tactics Hex
 
@@ -131,6 +135,8 @@ Game engine for TRPG creation, made with LÖVE2D. I have been developing it sinc
 | [Repository](https://github.com/GloamingCat/Lovely-Tactics-Hex) | [Tutorials](https://nightlywhiskers.wordpress.com/tutorials/) |
 
 <br />
+
+# Haskell
 
 ## OWLS Lang
 
