@@ -1,4 +1,4 @@
-Hi! I'm Luísa Rocha, a Brazilian independent artist, game programmer, and bachelor and master in Computer Science. 
+Hi! I'm Luísa Rocha, a Brazilian independent artist, game programmer, and BSc/MSc in Computer Science. 
 My main interest areas are Artificial Intelligence, Game Development and Computer Graphics.
 
 This is my portfolio, sectioned by language. The projects I made for my academic courses are published on my main account [luisaras](https://github.com/luisaras), 
